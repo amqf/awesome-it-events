@@ -1,10 +1,11 @@
 # awesome-it-events
 
-Awesome list about IT events.
-This list is being worked on. 
+Awesome list about IT events!!!
+🚧 Under construction... 
 
 **HELP US!** [Create a New Pull Request](https://github.com/amqf/awesome-it-events/pulls)!
 
+- [Campus Party](https://brasil.campus-party.org/): maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
 - [The Dev Conf (TDC)](https://thedevconf.com/tdc/2024/index.html): Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas1.
 - Fenasoft (SP): Feira de software e tecnologia realizada em São Paulo.
 - Comdex (RIO): Evento de tecnologia e negócios no Rio de Janeiro.
