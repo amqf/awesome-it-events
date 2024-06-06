@@ -17,4 +17,5 @@ Awesome list about IT events!!!
 - [Security BSides SP](https://securitybsides.com.br/): Evento de segurança cibernética em São Paulo.
 - [H2HC (Hacker Conference)](https://www.h2hc.com.br/): Conferência de hackers e segurança da informação.
 - Universo TOTVS: Evento da TOTVS, empresa brasileira de software de gestão empresarial.
+- [IOT Solutions Congress Brasil](Congresso focado em soluções e inovações na área da Internet das Coisas (IoT), reunindo líderes da indústria, especialistas e profissionais C-level)
 - ...
