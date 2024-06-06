@@ -1,4 +1,4 @@
-# awesome-it-events
+# AWESOME IT EVENTS
 
 Uma lista com eventos incríveis da área de TI!
 
