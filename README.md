@@ -1,9 +1,10 @@
 # awesome-it-events
 
-Awesome list about IT events!!!
-🚧 Under construction... 
+Uma lista com eventos incríveis da área de TI!
 
-**HELP US!** [Create a New Pull Request](https://github.com/amqf/awesome-it-events/pulls)!
+🚧 Em construção...
+
+**HELP US!**
 
 - [Campus Party](https://brasil.campus-party.org/): maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
 - [The Dev Conf (TDC)](https://thedevconf.com/tdc/2024/index.html): Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas1.
