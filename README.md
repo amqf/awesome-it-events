@@ -17,6 +17,6 @@ Uma lista com eventos incríveis da área de TI!
 - [H2HC (Hacker Conference)](https://www.h2hc.com.br/): Conferência de hackers e segurança da informação.
 - Universo TOTVS: Evento da TOTVS, empresa brasileira de software de gestão empresarial.
 - [IOT Solutions Congress Brasil](https://iotscongressbrasil.com.br/): Congresso focado em soluções e inovações na área da Internet das Coisas (IoT), reunindo líderes da indústria, especialistas e profissionais C-level
-- [DevOps Day](https://devopsdays.org/events/2024-brasilia/welcome/):
-- [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024)
+- [DevOps Day](https://devopsdays.org/events/2024-brasilia/welcome/): O DevOpsDays é uma série mundial de conferências comunitárias para todos interessados em melhorias na área de TI. O evento reúne entusiastas e especialistas em DevOps para compartilhar práticas, frameworks e ferramentas aplicáveis em organizações.
+- [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
 - ...
