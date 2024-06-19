@@ -6,19 +6,22 @@ Uma lista com eventos incríveis da área de TI!
 
 
 **TECNOLOGIA E INOVAÇÂO**
-- [Campus Party](https://brasil.campus-party.org/): maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
-- [Futurecom](https://www.futurecom.com.br/pt/home.html): (São Paulo) O Futurecom é uma plataforma dinâmica de B2B que ao longo de mais de 20 anos, tem sido um hub crucial para negócios e inovação no mercado. Como líder na integração do universo TIC, facilita a conexão entre empresas, startups e profissionais de tecnologia. Oferecendo soluções de conectividade e acesso a tecnologias de ponta e insights estratégicos para líderes empresariais e empresas inovadoras em diversos setores da economia.
-- [Web Summit](https://rio.websummit.com/): Conferência global de tecnologia e inovação.
+- [Campus Party](https://brasil.campus-party.org/): (Diversas localidades) maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
+- [Futurecom](https://www.futurecom.com.br/pt/home.html): (São Paulo, SP) O Futurecom é uma plataforma dinâmica de B2B que ao longo de mais de 20 anos, tem sido um hub crucial para negócios e inovação no mercado. Como líder na integração do universo TIC, facilita a conexão entre empresas, startups e profissionais de tecnologia. Oferecendo soluções de conectividade e acesso a tecnologias de ponta e insights estratégicos para líderes empresariais e empresas inovadoras em diversos setores da economia.
+- [Web Summit](https://rio.websummit.com/): (Rio de Janeiro, RJ) Conferência global de tecnologia e inovação.
 - ...
 
 
 **DESENVOLVIMENTO**
-- [Brasil JS](https://www.braziljs.org/): Encontro para a comunidade JavaScript no Brasil.
-- [Codecon](https://codecon.dev/): Evento para desenvolvedores e entusiastas de programação.
-- [DevOps Day](https://devopsdays.org/events/2024-brasilia/welcome/): O DevOpsDays é uma série mundial de conferências comunitárias para todos interessados em melhorias na área de TI. O evento reúne entusiastas e especialistas em DevOps para compartilhar práticas, frameworks e ferramentas aplicáveis em organizações.
-- [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
-- [FrontIn Sampa](https://frontinsampa.com.br/): Conferência focada em desenvolvimento front-end.
-- [The Dev Conf (TDC)](https://thedevconf.com/tdc/2024/index.html): Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas.
+- [Brasil JS](https://www.braziljs.org/): (Porto Alegre, RS) Encontro para a comunidade JavaScript no Brasil.
+- [Code in the Dark](http://codeinthedark.com.br/): (Florianópolis, SC) Imagine uma competição assim: Várias pessoas desenvolvedoras front-end precisam codificar uma página em apenas 15 minutos... Até aí o desafio já é enorme, concorda? Agora adicione o fato de que eleas não podem ver o resultado da página no browser, somente o código fonte, usando apenas HTML e CSS: Esse é o Code in the Dark!
+- [Codecon Summit](https://codecon.dev/): (Joinville, SC) Evento para desenvolvedores e entusiastas de programação.
+- [DevOpsDay](https://devopsdays.org/): (Diversas localidades) O DevOpsDays é uma série mundial de conferências comunitárias para todos interessados em melhorias na área de TI. O evento reúne entusiastas e especialistas em DevOps para compartilhar práticas, frameworks e ferramentas aplicáveis em organizações.
+- [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): (Online) O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
+- [Front-End Week](https://www.frontendweek.com.br/): (Itinerante) Uma semana (ou mais) de eventos e meetups front-end organizados pela própria comunidade de front-end developers do Brasil.
+- [FrontIn Sampa](https://frontinsampa.com.br/): (São Paulo, SP) Conferência focada em desenvolvimento front-end.
+- [Frontin Floripa](https://frontin.floripa.br/):  (Florianópolis, SC) Conferência focada em desenvolvimento front-end.
+- [The Dev Conf (TDC)](https://thedevconf.com/): (Diversas localidades) Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas.
 - ...
 
 
@@ -26,7 +29,7 @@ Uma lista com eventos incríveis da área de TI!
 - [AWS Summit](https://aws.amazon.com/pt/events/summits/sao-paulo/): (São Paulo) Conferência da Amazon Web Services sobre computação em nuvem.
 - [Conferência Gartner CIO & IT Executive](https://www.gartner.com/pt-br/conferences/la/cio-brazil): (São Paulo) Explore oportunidades inovadoras e transformacionais com uma comunidade global de especialistas. Saia com insights e orientação especializada para impulsionar a transformação digital dos negócios, alavancar valor para o negócio a partir dos dados, moldar o futuro das aplicações inteligentes, construir infraestrutura digital, bem como mitigar os riscos cibernéticos.
 - [Febraban Tech](https://febrabantech.febraban.org.br/home): (São Paulo) Maior evento de tecnologia e inovação do setor financeiro, reúne as lideranças dos setores financeiro, tecnologia, sustentabilidade, agro e de áreas interessadas em inovação, para debates sobre temas atuais da economia digital.
-- [IOT Solutions Congress Brasil](https://iotscongressbrasil.com.br/): Congresso focado em soluções e inovações na área da Internet das Coisas (IoT), reunindo líderes da indústria, especialistas e profissionais C-level.
+- [IOT Solutions Congress Brasil](https://iotscongressbrasil.com.br/): (São Paulo) Congresso focado em soluções e inovações na área da Internet das Coisas (IoT), reunindo líderes da indústria, especialistas e profissionais C-level.
 - [Semana de Infraestrutura da Internet no Brasil](https://nic.br/semanainfrabr/): (São Paulo) Em uma mesma semana, o NIC.br e CGI.br organizam importantes eventos que discutirão temas diretamente ligados à infraestrutura da Internet no Brasil.
 - [TecBan Summit](https://tecban.com.br/summit/): (São Paulo) A TecBan organizou em 2023 pela primeira vez o encontro anual da ATEFI (Asociación Latinoamericana de Operadores de Servicios de Transferencia) que reuniu as principais lideranças da América Latina para discutir tendências do setor financeiro e meios de pagamento. O TecBan Summit 2023 contou com a participação de referências mundiais dos mercados de tecnologia, inovação, segurança, novos meios de pagamento, auto-atendimento e open banking. Além de ter exposto as mais recentes iniciativas destes setores, trouxe também painéis e palestras sobre o impacto das novas tecnologias que integram o físico e o digital.
 - [Universo TOTVS](https://universo.totvs.com/): (São Paulo) Evento da TOTVS, empresa Brasileira de software de gestão empresarial.
