@@ -4,10 +4,12 @@ Uma lista com eventos incríveis da área de TI!
 
 **HELP US!** 🚧 Em construção...
 
+
 **TECNOLOGIA E INOVAÇÂO**
 - [Campus Party](https://brasil.campus-party.org/): maior festival de tecnologia, empreendedorismo, ciência e disruptividade do mundo. Realizada em mais de 30 países, a Campus Party oferece um ambiente imersivo de disrupção, educação e criatividade.
 - [Futurecom](https://www.futurecom.com.br/pt/home.html): (São Paulo) O Futurecom é uma plataforma dinâmica de B2B que ao longo de mais de 20 anos, tem sido um hub crucial para negócios e inovação no mercado. Como líder na integração do universo TIC, facilita a conexão entre empresas, startups e profissionais de tecnologia. Oferecendo soluções de conectividade e acesso a tecnologias de ponta e insights estratégicos para líderes empresariais e empresas inovadoras em diversos setores da economia.
 - [Web Summit](https://rio.websummit.com/): Conferência global de tecnologia e inovação.
+- ...
 
 
 **DESENVOLVIMENTO**
@@ -17,6 +19,7 @@ Uma lista com eventos incríveis da área de TI!
 - [DevOps Fest](https://conteudo.devopsbootcamp.net/devopsfest2024): O DevOps Fest é um evento online e gratuito promovido pelo DevOpsBootcamp. Ele reúne entusiastas, profissionais e especialistas em DevOps para celebrar o conhecimento e a evolução na área.
 - [FrontIn Sampa](https://frontinsampa.com.br/): Conferência focada em desenvolvimento front-end.
 - [The Dev Conf (TDC)](https://thedevconf.com/tdc/2024/index.html): Maior evento de desenvolvimento de software da América Latina, conectando profissionais de tecnologia, palestrantes e empresas.
+- ...
 
 
 **DE EMPRESAS E SETORES DA TI**
@@ -28,6 +31,7 @@ Uma lista com eventos incríveis da área de TI!
 - [TecBan Summit](https://tecban.com.br/summit/): (São Paulo) A TecBan organizou em 2023 pela primeira vez o encontro anual da ATEFI (Asociación Latinoamericana de Operadores de Servicios de Transferencia) que reuniu as principais lideranças da América Latina para discutir tendências do setor financeiro e meios de pagamento. O TecBan Summit 2023 contou com a participação de referências mundiais dos mercados de tecnologia, inovação, segurança, novos meios de pagamento, auto-atendimento e open banking. Além de ter exposto as mais recentes iniciativas destes setores, trouxe também painéis e palestras sobre o impacto das novas tecnologias que integram o físico e o digital.
 - [Universo TOTVS](https://universo.totvs.com/): (São Paulo) Evento da TOTVS, empresa Brasileira de software de gestão empresarial.
 - ...
+
   
 **SEGURANÇA DA INFORMAÇÃO**
 - [BHack](https://www.bhack.com.br/): (Belo Horizonte) Desde 2012, a BHack tem como objetivo atender às necessidades do público mineiro quando se trata de Segurança da Informação (SI). A conferência se consolidou no cenário nacional como um dos eventos anuais de maior importância no circuito, oferecendo palestras repletas de conteúdos atuais e relevantes para todos aqueles que lidam com Segurança da Informação, agregando conhecimento e promovendo integração entre gestores e técnicos.
@@ -45,6 +49,8 @@ Uma lista com eventos incríveis da área de TI!
 - [You Sh0t the Sheriff](https://www.ysts.org/): (São Paulo) A conferência de segurança da informação mais exclusiva do Brasil, o You sh0t the Sheriffadota um modelo único e diferenciado reunindo as pessoas mais influentes do setor de segurança da informação brasileiro em um ambiente informal e descontraído. A combinação perfeita para networking e fortalecimento das relações de negócios com clientes atuais e futuros.
 - ...
 
+
 **PIONEIRAS**
 - [Comdex](https://en.wikipedia.org/wiki/COMDEX): Era um dos grandes eventos de tecnologia mundial e teve edições no Brasil, mas acabou no início dos anos 2000.
 - [Fenasoft](https://pt.wikipedia.org/wiki/Fenasoft): A Fenasoft era a maior feira de informática do Brasil nos anos 90. Acontecia na cidade de São Paulo e algumas poucas edições ainda ocorreram durante o início dos anos 2000, com foco no público corporativo.
+- ...
